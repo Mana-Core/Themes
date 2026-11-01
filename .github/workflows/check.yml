@@ -20,12 +20,15 @@ jobs:
 
       - run: node scripts/check.mjs
 
-  index:
+  deploy:
     needs: check
     if: github.event_name == 'push'
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    concurrency:
+      group: pages
+      cancel-in-progress: true
     steps:
       - uses: actions/checkout@v4
 
@@ -35,11 +38,8 @@ jobs:
 
       - run: node scripts/build.mjs
 
-      - name: Commit themes.json
-        run: |
-          git add themes.json
-          git diff --cached --quiet && exit 0
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898333+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Update themes.json'
-          git push
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist

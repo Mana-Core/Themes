@@ -1,0 +1,26 @@
+{
+  "repositoryName": "Mana Themes",
+  "themes": [
+    {
+      "id": "EB38B0AF-881D-4FEE-83F6-1434CE06FDCC",
+      "name": "Army Green",
+      "path": "themes/army-green.json",
+      "url": "https://raw.githubusercontent.com/Mana-Core/Themes/main/themes/army-green.json",
+      "hash": "cc7aa2bcbe4b31563070e8879d0e8dff4aba49ef3d93cb383478f06ac109620d"
+    },
+    {
+      "id": "6A44B143-9447-43A3-A31A-D2E949CD61DB",
+      "name": "Cyberpunk",
+      "path": "themes/cyberpunk.json",
+      "url": "https://raw.githubusercontent.com/Mana-Core/Themes/main/themes/cyberpunk.json",
+      "hash": "a20baa61a70c0cffe97589910bf610c019e45bfe9c2e615c777cdeac0ac6584c"
+    },
+    {
+      "id": "37CB0027-3E42-4D28-B6F6-0041522934D1",
+      "name": "Invincible Blue & Yellow",
+      "path": "themes/invincible-blue-yellow.json",
+      "url": "https://raw.githubusercontent.com/Mana-Core/Themes/main/themes/invincible-blue-yellow.json",
+      "hash": "cf4c6818b4210138af3e5bc603aa37c1f956fc65074f9a594c7f0639379add08"
+    }
+  ]
+}

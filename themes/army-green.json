@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#6B8E23FF",
+        "background": "#1E241BFF",
+        "contentTileOverlay": "#161B14E8",
+        "foregroundOnAccent": "#F2F4E8FF",
+        "label": "#F3F5EDFF",
+        "secondaryBackground": "#2A3325FF",
+        "secondaryLabel": "#AEB8A3FF",
+        "separator": "#DDE5CF26",
+        "separatorSubtle": "#DDE5CF14",
+        "shadow": "#000000FF",
+        "statusDestructive": "#C65A46FF",
+        "statusInfo": "#7FA98BFF",
+        "statusPositive": "#8FBF6BFF",
+        "statusWarning": "#C2A55CFF",
+        "tertiaryBackground": "#394431FF"
+      }
+    },
+    "id": "EB38B0AF-881D-4FEE-83F6-1434CE06FDCC",
+    "name": "Army Green"
+  }
+}

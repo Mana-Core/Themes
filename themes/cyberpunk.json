@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#FA0FA3FF",
+        "background": "#0A0815FF",
+        "contentTileOverlay": "#0A0815E8",
+        "foregroundOnAccent": "#FFFFFFFF",
+        "label": "#EBFCFFFF",
+        "secondaryBackground": "#110F22FF",
+        "secondaryLabel": "#9EC7F0FF",
+        "separator": "#00E6FF1F",
+        "separatorSubtle": "#00E6FF12",
+        "shadow": "#000000FF",
+        "statusDestructive": "#FF3333FF",
+        "statusInfo": "#00E6FFFF",
+        "statusPositive": "#00FF99FF",
+        "statusWarning": "#FFC857FF",
+        "tertiaryBackground": "#250048FF"
+      }
+    },
+    "id": "6A44B143-9447-43A3-A31A-D2E949CD61DB",
+    "name": "Cyberpunk"
+  }
+}

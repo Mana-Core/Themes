@@ -22,10 +22,11 @@ const themes = readdirSync(source)
   .map((file) => {
     const text = readFileSync(join(source, file))
     writeFileSync(join(dist, 'themes', file), text)
-    const { theme } = JSON.parse(text)
+    const { author, theme } = JSON.parse(text)
     return {
       id: theme.id,
       name: theme.name,
+      author,
       path: `themes/${file}`,
       url: `${HOST}/themes/${file}`,
       hash: createHash('sha256').update(text).digest('hex')

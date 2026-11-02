@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#D2F25AFF",
+        "background": "#300E2BFF",
+        "contentTileOverlay": "#300E2BEB",
+        "foregroundOnAccent": "#131900FF",
+        "label": "#FEF0FBFF",
+        "secondaryBackground": "#3E1738FF",
+        "secondaryLabel": "#F6AEDBFF",
+        "separator": "#F6AEDB2E",
+        "separatorSubtle": "#F6AEDB17",
+        "shadow": "#000000FF",
+        "statusDestructive": "#EE6476FF",
+        "statusInfo": "#F6AEDBFF",
+        "statusPositive": "#76FBC7FF",
+        "statusWarning": "#F5AE4BFF",
+        "tertiaryBackground": "#521C4AFF"
+      }
+    },
+    "id": "E6CD4238-C48E-5B6F-8F40-8307ACD3F081",
+    "name": "Mulberry Lime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#FF4D5EFF",
+        "background": "#18181DFF",
+        "contentTileOverlay": "#18181DEB",
+        "foregroundOnAccent": "#2C070AFF",
+        "label": "#F5F5F7FF",
+        "secondaryBackground": "#222228FF",
+        "secondaryLabel": "#C9C4C6FF",
+        "separator": "#C9C4C62E",
+        "separatorSubtle": "#C9C4C617",
+        "shadow": "#000000FF",
+        "statusDestructive": "#EF6661FF",
+        "statusInfo": "#F9B3D2FF",
+        "statusPositive": "#96F8ACFF",
+        "statusWarning": "#F2AF48FF",
+        "tertiaryBackground": "#2E2E3BFF"
+      }
+    },
+    "id": "7C03826C-441B-53F5-B133-5761061C0F09",
+    "name": "Crimson Ink"
+  }
+}

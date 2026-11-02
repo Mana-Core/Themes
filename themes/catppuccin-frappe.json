@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "Moon"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#CA9EE6FF",
+        "background": "#303446FF",
+        "foregroundOnAccent": "#232634FF",
+        "label": "#C6D0F5FF",
+        "secondaryBackground": "#292C3CFF",
+        "secondaryLabel": "#A5ADCEFF",
+        "separator": "#C6D0F52E",
+        "separatorSubtle": "#C6D0F52E",
+        "shadow": "#232634FF",
+        "statusDestructive": "#E78284FF",
+        "statusInfo": "#8CAAEEFF",
+        "statusPositive": "#A6D189FF",
+        "statusWarning": "#E5C890FF",
+        "tertiaryBackground": "#414559FF"
+      }
+    },
+    "id": "6B2D4E8A-1F5C-4A9B-8D3E-7C1A9F2B4D6E",
+    "name": "Catppuccin Frappé (Mauve)"
+  }
+}

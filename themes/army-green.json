@@ -1,5 +1,9 @@
 {
   "schemaVersion": 1,
+  "author": {
+    "name": "Karrot",
+    "github": "karrot0"
+  },
   "theme": {
     "colors": {
       "values": {

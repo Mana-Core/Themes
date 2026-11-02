@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#FFB3C6FF",
+        "background": "#202637FF",
+        "contentTileOverlay": "#202637EB",
+        "foregroundOnAccent": "#230E14FF",
+        "label": "#F2F5FCFF",
+        "secondaryBackground": "#2A3145FF",
+        "secondaryLabel": "#B6C6E6FF",
+        "separator": "#B6C6E62E",
+        "separatorSubtle": "#B6C6E617",
+        "shadow": "#000000FF",
+        "statusDestructive": "#FD7277FF",
+        "statusInfo": "#B6C6E6FF",
+        "statusPositive": "#73EDB1FF",
+        "statusWarning": "#EFB146FF",
+        "tertiaryBackground": "#333D5BFF"
+      }
+    },
+    "id": "C1D07A31-F64D-4094-9CC3-2C77BB5FE757",
+    "name": "Sakura Smoke"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "Moon"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#CBA6F7FF",
+        "background": "#1E1E2EFF",
+        "foregroundOnAccent": "#11111BFF",
+        "label": "#CDD6F4FF",
+        "secondaryBackground": "#181825FF",
+        "secondaryLabel": "#A6ADC8FF",
+        "separator": "#CDD6F42E",
+        "separatorSubtle": "#CDD6F42E",
+        "shadow": "#11111BFF",
+        "statusDestructive": "#F38BA8FF",
+        "statusInfo": "#89B4FAFF",
+        "statusPositive": "#A6E3A1FF",
+        "statusWarning": "#F9E2AFFF",
+        "tertiaryBackground": "#313244FF"
+      }
+    },
+    "id": "7F3D9C1A-B482-4E56-A2D7-C8F501E39B6D",
+    "name": "Catppuccin Mocha (Mauve)"
+  }
+}

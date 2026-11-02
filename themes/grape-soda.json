@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#C6F65AFF",
+        "background": "#1D0E2CFF",
+        "contentTileOverlay": "#1D0E2CEB",
+        "foregroundOnAccent": "#1C2604FF",
+        "label": "#FAF0FFFF",
+        "secondaryBackground": "#27153BFF",
+        "secondaryLabel": "#E7A8FFFF",
+        "separator": "#E7A8FF2E",
+        "separatorSubtle": "#E7A8FF17",
+        "shadow": "#000000FF",
+        "statusDestructive": "#ED647CFF",
+        "statusInfo": "#E7A8FFFF",
+        "statusPositive": "#73EDB1FF",
+        "statusWarning": "#E7B643FF",
+        "tertiaryBackground": "#3A1D5CFF"
+      }
+    },
+    "id": "B15FC502-5261-5250-8DB7-6319981042EA",
+    "name": "Grape Soda"
+  }
+}

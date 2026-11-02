@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#5CE6C8FF",
+        "background": "#0E1F17FF",
+        "contentTileOverlay": "#0E1F17EB",
+        "foregroundOnAccent": "#05261FFF",
+        "label": "#F1FAF3FF",
+        "secondaryBackground": "#142A20FF",
+        "secondaryLabel": "#FF9F9FFF",
+        "separator": "#FF9F9F2E",
+        "separatorSubtle": "#FF9F9F17",
+        "shadow": "#000000FF",
+        "statusDestructive": "#EF656BFF",
+        "statusInfo": "#FFE1DBFF",
+        "statusPositive": "#9EE78EFF",
+        "statusWarning": "#E0AF3BFF",
+        "tertiaryBackground": "#1F3D2CFF"
+      }
+    },
+    "id": "F48A9F2C-8C89-4DEF-9E7F-3B3B9B9532A5",
+    "name": "Fairy Forest"
+  }
+}

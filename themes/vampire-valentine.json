@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#FA4C85FF",
+        "background": "#09070BFF",
+        "contentTileOverlay": "#09070BF5",
+        "foregroundOnAccent": "#09080DFF",
+        "label": "#FFEAF4FF",
+        "secondaryBackground": "#1F1017FF",
+        "secondaryLabel": "#F09AAEFF",
+        "separator": "#FA4C8542",
+        "separatorSubtle": "#FA4C851C",
+        "shadow": "#F03C7855",
+        "statusDestructive": "#FF95A4FF",
+        "statusInfo": "#D3B9E8FF",
+        "statusPositive": "#B2D8BCFF",
+        "statusWarning": "#E9C78FFF",
+        "tertiaryBackground": "#331723FF"
+      }
+    },
+    "id": "BC7BF5A1-685D-4EF8-8574-F83C91F63D4B",
+    "name": "Vampire Valentine"
+  }
+}

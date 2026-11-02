@@ -6,14 +6,16 @@ import { fileURLToPath } from 'node:url'
 
 const dir = resolve(dirname(fileURLToPath(import.meta.url)), '../themes')
 
-// The colors the previews on the docs site draw with.
+// The colors the previews on the docs site draw with. contentTileOverlay is left out because
+// the previews fall back to the background for it.
 const REQUIRED = [
-  'accent', 'background', 'contentTileOverlay', 'foregroundOnAccent', 'label', 'secondaryBackground',
+  'accent', 'background', 'foregroundOnAccent', 'label', 'secondaryBackground',
   'secondaryLabel', 'separator', 'statusDestructive', 'statusInfo', 'tertiaryBackground'
 ]
 const COLOR = /^#[0-9A-Fa-f]{8}$/
 const UUID = /^[0-9A-F]{8}-[0-9A-F]{4}-[0-9A-F]{4}-[0-9A-F]{4}-[0-9A-F]{12}$/i
 const FILE_NAME = /^[a-z0-9]+(-[a-z0-9]+)*\.json$/
+const GITHUB_USER = /^[A-Za-z0-9](?:[A-Za-z0-9-]{0,38})$/
 
 const errors = []
 const ids = new Map()
@@ -36,8 +38,10 @@ for (const file of files) {
     continue
   }
 
-  const { schemaVersion, theme } = parsed
+  const { schemaVersion, author, theme } = parsed
   if (schemaVersion !== 1) fail('schemaVersion must be 1')
+  if (typeof author?.name !== 'string' || !author.name.trim()) fail('needs an author with a name')
+  if (author?.github !== undefined && !GITHUB_USER.test(author.github)) fail('author.github must be a GitHub username')
   if (!theme?.name) fail('needs a name')
   if (!UUID.test(theme?.id ?? '')) fail('needs an id that is a UUID')
 

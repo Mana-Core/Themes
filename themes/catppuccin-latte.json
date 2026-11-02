@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "Moon"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#8839EFFF",
+        "background": "#EFF1F5FF",
+        "foregroundOnAccent": "#DCE0E8FF",
+        "label": "#4C4F69FF",
+        "secondaryBackground": "#E6E9EFFF",
+        "secondaryLabel": "#6C6F85FF",
+        "separator": "#4C4F692E",
+        "separatorSubtle": "#4C4F692E",
+        "shadow": "#DCE0E8FF",
+        "statusDestructive": "#D20F39FF",
+        "statusInfo": "#1E66F5FF",
+        "statusPositive": "#40A02BFF",
+        "statusWarning": "#DF8E1DFF",
+        "tertiaryBackground": "#CCD0DAFF"
+      }
+    },
+    "id": "3A6E1F2B-9C47-4D18-B0E5-1A2F3C4D5E6F",
+    "name": "Catppuccin Latte (Mauve)"
+  }
+}

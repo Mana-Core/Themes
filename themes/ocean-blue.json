@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#00D0E9FF",
+        "background": "#001626FF",
+        "contentTileOverlay": "#001626EB",
+        "foregroundOnAccent": "#002027FF",
+        "label": "#ECF5FCFF",
+        "secondaryBackground": "#021F33FF",
+        "secondaryLabel": "#93D1E9FF",
+        "separator": "#ECF5FC1F",
+        "separatorSubtle": "#ECF5FC12",
+        "shadow": "#FFFFFFFF",
+        "statusDestructive": "#EF4D60FF",
+        "statusInfo": "#9BBDFFFF",
+        "statusPositive": "#7FF0AAFF",
+        "statusWarning": "#F6A748FF",
+        "tertiaryBackground": "#00304DFF"
+      }
+    },
+    "id": "884F74FA-26E6-4C2D-882C-742997C2645B",
+    "name": "Ocean Blue"
+  }
+}

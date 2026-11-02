@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#FF6FB8FF",
+        "background": "#171A5EFF",
+        "contentTileOverlay": "#171A5EEB",
+        "foregroundOnAccent": "#290819FF",
+        "label": "#F0F5FFFF",
+        "secondaryBackground": "#1F2471FF",
+        "secondaryLabel": "#B7C0FFFF",
+        "separator": "#B7C0FF2E",
+        "separatorSubtle": "#B7C0FF17",
+        "shadow": "#000000FF",
+        "statusDestructive": "#F56B76FF",
+        "statusInfo": "#5EE3FFFF",
+        "statusPositive": "#73EDB1FF",
+        "statusWarning": "#EDB345FF",
+        "tertiaryBackground": "#282B92FF"
+      }
+    },
+    "id": "B53E44A3-F042-4CC4-AA6B-BD9E7F5337C9",
+    "name": "Dreamberry"
+  }
+}

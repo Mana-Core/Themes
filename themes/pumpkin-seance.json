@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#FF7200FF",
+        "background": "#050405FF",
+        "contentTileOverlay": "#050405F5",
+        "foregroundOnAccent": "#10070AFF",
+        "label": "#FFB16BFF",
+        "secondaryBackground": "#1A0C29FF",
+        "secondaryLabel": "#D4A9FFFF",
+        "separator": "#B674EE70",
+        "separatorSubtle": "#9F56D936",
+        "shadow": "#FFFFFFFF",
+        "statusDestructive": "#FF5269FF",
+        "statusInfo": "#FF6575FF",
+        "statusPositive": "#D4A9FFFF",
+        "statusWarning": "#FFB16BFF",
+        "tertiaryBackground": "#2C143EFF"
+      }
+    },
+    "id": "03F8FF7F-C258-40E1-AF83-DCEB7477EBDB",
+    "name": "Pumpkin Séance"
+  }
+}

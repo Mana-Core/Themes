@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#39FF88FF",
+        "background": "#04140FFF",
+        "contentTileOverlay": "#04140FEB",
+        "foregroundOnAccent": "#00210EFF",
+        "label": "#D7FFE9FF",
+        "secondaryBackground": "#082419FF",
+        "secondaryLabel": "#5CFF9DFF",
+        "separator": "#39FF8838",
+        "separatorSubtle": "#39FF881C",
+        "shadow": "#39FF88FF",
+        "statusDestructive": "#EE6476FF",
+        "statusInfo": "#23D97AFF",
+        "statusPositive": "#50FCEAFF",
+        "statusWarning": "#EDB345FF",
+        "tertiaryBackground": "#0C3626FF"
+      }
+    },
+    "id": "A8AA1B26-A8CB-586E-9629-9648EB67ED09",
+    "name": "Ectoplasma"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#FF71CEFF",
+        "background": "#1E1446FF",
+        "contentTileOverlay": "#1E1446EB",
+        "foregroundOnAccent": "#2E0020FF",
+        "label": "#FFF0FAFF",
+        "secondaryBackground": "#2A1C5EFF",
+        "secondaryLabel": "#7DF9FFFF",
+        "separator": "#FF71CE38",
+        "separatorSubtle": "#FF71CE1C",
+        "shadow": "#FF71CEFF",
+        "statusDestructive": "#E6659EFF",
+        "statusInfo": "#FF9CFAFF",
+        "statusPositive": "#51EFCCFF",
+        "statusWarning": "#E3B842FF",
+        "tertiaryBackground": "#0F4A57FF"
+      }
+    },
+    "id": "5ED0F186-F8C8-4B3A-A277-6AF0D5DE1A0D",
+    "name": "Vaporwave"
+  }
+}

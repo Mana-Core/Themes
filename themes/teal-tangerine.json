@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#FF9B45FF",
+        "background": "#0D3238FF",
+        "contentTileOverlay": "#0D3238EB",
+        "foregroundOnAccent": "#290D00FF",
+        "label": "#ECF8FAFF",
+        "secondaryBackground": "#153E45FF",
+        "secondaryLabel": "#9FE8E2FF",
+        "separator": "#9FE8E22E",
+        "separatorSubtle": "#9FE8E217",
+        "shadow": "#000000FF",
+        "statusDestructive": "#FF7882FF",
+        "statusInfo": "#6DCAC3FF",
+        "statusPositive": "#96F8ACFF",
+        "statusWarning": "#EFB146FF",
+        "tertiaryBackground": "#064E58FF"
+      }
+    },
+    "id": "659FBEC3-51D6-588E-859B-A4821D62553A",
+    "name": "Teal Tangerine"
+  }
+}

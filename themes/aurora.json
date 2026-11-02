@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#B98CFFFF",
+        "background": "#0C0F26FF",
+        "contentTileOverlay": "#0C0F26EB",
+        "foregroundOnAccent": "#1C0B33FF",
+        "label": "#F1F4FFFF",
+        "secondaryBackground": "#131838FF",
+        "secondaryLabel": "#7CF5C0FF",
+        "separator": "#7CF5C02E",
+        "separatorSubtle": "#7CF5C017",
+        "shadow": "#000000FF",
+        "statusDestructive": "#EC6480FF",
+        "statusInfo": "#B98CFFFF",
+        "statusPositive": "#73EDB1FF",
+        "statusWarning": "#EDB345FF",
+        "tertiaryBackground": "#1D2A55FF"
+      }
+    },
+    "id": "E704219B-2C4F-567F-BE66-467D8933CB80",
+    "name": "Aurora"
+  }
+}

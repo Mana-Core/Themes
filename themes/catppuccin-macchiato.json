@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "Moon"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#C6A0F6FF",
+        "background": "#24273AFF",
+        "foregroundOnAccent": "#181926FF",
+        "label": "#CAD3F5FF",
+        "secondaryBackground": "#1E2030FF",
+        "secondaryLabel": "#A5ADCBFF",
+        "separator": "#CAD3F52E",
+        "separatorSubtle": "#CAD3F52E",
+        "shadow": "#181926FF",
+        "statusDestructive": "#ED8796FF",
+        "statusInfo": "#8AADF4FF",
+        "statusPositive": "#A6DA95FF",
+        "statusWarning": "#EED49FFF",
+        "tertiaryBackground": "#363A4FFF"
+      }
+    },
+    "id": "9F1C3A7D-4E28-4B96-A5D1-2E8F6C9B3A4D",
+    "name": "Catppuccin Macchiato (Mauve)"
+  }
+}

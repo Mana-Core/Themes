@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#F66D67FF",
+        "background": "#112B47FF",
+        "contentTileOverlay": "#112B47EB",
+        "foregroundOnAccent": "#290B0AFF",
+        "label": "#EDF6FFFF",
+        "secondaryBackground": "#1A3756FF",
+        "secondaryLabel": "#B5D4F8FF",
+        "separator": "#EDF6FF24",
+        "separatorSubtle": "#EDF6FF14",
+        "shadow": "#000205FF",
+        "statusDestructive": "#F47A81FF",
+        "statusInfo": "#8EC2FDFF",
+        "statusPositive": "#94EFB5FF",
+        "statusWarning": "#F9B96CFF",
+        "tertiaryBackground": "#23456AFF"
+      }
+    },
+    "id": "093C1528-D00A-580E-B3FE-B1ED6101656C",
+    "name": "Navy Coral"
+  }
+}

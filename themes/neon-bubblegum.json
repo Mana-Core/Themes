@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#FF4993FF",
+        "background": "#0A0815FF",
+        "contentTileOverlay": "#0F0F0FEB",
+        "foregroundOnAccent": "#FFFFFFFF",
+        "label": "#EBFCFFFF",
+        "secondaryBackground": "#110F22FF",
+        "secondaryLabel": "#93E3FDFF",
+        "separator": "#00E6FF1F",
+        "separatorSubtle": "#00E6FF1F",
+        "shadow": "#000000FF",
+        "statusDestructive": "#FF3333FF",
+        "statusInfo": "#FF4993FF",
+        "statusPositive": "#00FF99FF",
+        "statusWarning": "#93E3FDFF",
+        "tertiaryBackground": "#250048FF"
+      }
+    },
+    "id": "1D03AE05-71DF-4EB3-AB86-731893355218",
+    "name": "Neon Bubblegum"
+  }
+}

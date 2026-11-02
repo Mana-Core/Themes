@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#F5F5F5FF",
+        "background": "#0B0B0BFF",
+        "contentTileOverlay": "#0B0B0BF0",
+        "foregroundOnAccent": "#151515FF",
+        "label": "#F6F6F6FF",
+        "secondaryBackground": "#292929FF",
+        "secondaryLabel": "#CCCCCCFF",
+        "separator": "#CCCCCC52",
+        "separatorSubtle": "#CCCCCC29",
+        "shadow": "#FFFFFFAA",
+        "statusDestructive": "#FF2222FF",
+        "statusInfo": "#EBEBEBFF",
+        "statusPositive": "#10FF03FF",
+        "statusWarning": "#FEFB41FF",
+        "tertiaryBackground": "#171717FF"
+      }
+    },
+    "id": "081A51C4-41FF-460F-987D-F2EF73666EB8",
+    "name": "Manga Ink"
+  }
+}

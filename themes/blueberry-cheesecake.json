@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#8C9BFFFF",
+        "background": "#171633FF",
+        "contentTileOverlay": "#171633EB",
+        "foregroundOnAccent": "#0E1240FF",
+        "label": "#F4F3FFFF",
+        "secondaryBackground": "#1F1D44FF",
+        "secondaryLabel": "#FFE7B3FF",
+        "separator": "#FFE7B32E",
+        "separatorSubtle": "#FFE7B317",
+        "shadow": "#000000FF",
+        "statusDestructive": "#EE6476FF",
+        "statusInfo": "#8C9BFFFF",
+        "statusPositive": "#73EDB1FF",
+        "statusWarning": "#EDB345FF",
+        "tertiaryBackground": "#2E2B66FF"
+      }
+    },
+    "id": "2B9F235D-C91A-58B9-A9EF-0FDA9F1246E8",
+    "name": "Blueberry Cheesecake"
+  }
+}

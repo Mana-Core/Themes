@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "author": {
+    "name": "viki"
+  },
+  "theme": {
+    "colors": {
+      "values": {
+        "accent": "#3FD6C5FF",
+        "background": "#261A15FF",
+        "contentTileOverlay": "#261A15EB",
+        "foregroundOnAccent": "#001D19FF",
+        "label": "#F9F4F2FF",
+        "secondaryBackground": "#32241FFF",
+        "secondaryLabel": "#F1DCC0FF",
+        "separator": "#F1DCC02E",
+        "separatorSubtle": "#F1DCC017",
+        "shadow": "#000000FF",
+        "statusDestructive": "#EF6567FF",
+        "statusInfo": "#0DBEADFF",
+        "statusPositive": "#89EB9FFF",
+        "statusWarning": "#EFB146FF",
+        "tertiaryBackground": "#452E24FF"
+      }
+    },
+    "id": "41755B09-CDE5-46DE-9199-0A887166DF95",
+    "name": "Chocomint"
+  }
+}

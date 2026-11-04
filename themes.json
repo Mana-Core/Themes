@@ -16,21 +16,21 @@
       "id": "E704219B-2C4F-567F-BE66-467D8933CB80",
       "name": "Aurora",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/aurora.json",
       "url": "https://mana-core.github.io/Themes/themes/aurora.json",
-      "hash": "06c12156ba44251bd595e4ba71d9417f7ba1eaab30225a654320139d135b2e39"
+      "hash": "f2e5e82a18522ae84d458c0862aa3888b0b3e3dcca5d71f9c16a953ac72c7f57"
     },
     {
       "id": "2B9F235D-C91A-58B9-A9EF-0FDA9F1246E8",
       "name": "Blueberry Cheesecake",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/blueberry-cheesecake.json",
       "url": "https://mana-core.github.io/Themes/themes/blueberry-cheesecake.json",
-      "hash": "b3367cc08d649875b8cb5d2089b589ed0b31d557dab88a5fa86241cf753dd15f"
+      "hash": "be13cb2f1dcec4562c975005a72aaa069933af95951bffd841889a1f74ac17c7"
     },
     {
       "id": "6B2D4E8A-1F5C-4A9B-8D3E-7C1A9F2B4D6E",
@@ -76,21 +76,21 @@
       "id": "41755B09-CDE5-46DE-9199-0A887166DF95",
       "name": "Chocomint",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/chocomint.json",
       "url": "https://mana-core.github.io/Themes/themes/chocomint.json",
-      "hash": "3cf158fbd3880b231f264d7c3eb352f05fa3a0e9e44a2b15ec68217df19e7fa0"
+      "hash": "ff37cf0bd86237e5096d4665f2f90a2078beeac5ae2cafdd0f0d01ec3377b213"
     },
     {
       "id": "7C03826C-441B-53F5-B133-5761061C0F09",
       "name": "Crimson Ink",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/crimson-ink.json",
       "url": "https://mana-core.github.io/Themes/themes/crimson-ink.json",
-      "hash": "d65f6ef7288b5743b57b800fbe6e0ab86268298b9ba805f209935796b6ad3b7a"
+      "hash": "935fb9ed206ce37377f9d3d68a3c3e0d6e523debeb188ad77bf40886e8080fff"
     },
     {
       "id": "6A44B143-9447-43A3-A31A-D2E949CD61DB",
@@ -107,41 +107,41 @@
       "id": "B53E44A3-F042-4CC4-AA6B-BD9E7F5337C9",
       "name": "Dreamberry",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/dreamberry.json",
       "url": "https://mana-core.github.io/Themes/themes/dreamberry.json",
-      "hash": "9ff22b206105e52be118464021d4a75502a092772bb2b9d857c3a006aeb9f8d6"
+      "hash": "f3e8dc5c21eb19e83e681ef8dd5573f8244265784500e1fd2a0277317d5b28d5"
     },
     {
       "id": "A8AA1B26-A8CB-586E-9629-9648EB67ED09",
       "name": "Ectoplasma",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/ectoplasma.json",
       "url": "https://mana-core.github.io/Themes/themes/ectoplasma.json",
-      "hash": "dc00501a56242daf15eea20451c1ac9b9f5e277df90a38527cd7bc469163e438"
+      "hash": "603cbf86ccbac7dceeb9ffd8d2ddef6da509ef4f9073e666a8f500138af60ca6"
     },
     {
       "id": "F48A9F2C-8C89-4DEF-9E7F-3B3B9B9532A5",
       "name": "Fairy Forest",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/fairy-forest.json",
       "url": "https://mana-core.github.io/Themes/themes/fairy-forest.json",
-      "hash": "93e6ad1b4ff0fedba9d48db5ba3cab33a7c602306409b6f5dcadd07e9b48723c"
+      "hash": "77b6b6339b6e7fc15ceec49d5e9d69307fdd6fe77302f1705d0bda42757a3852"
     },
     {
       "id": "B15FC502-5261-5250-8DB7-6319981042EA",
       "name": "Grape Soda",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/grape-soda.json",
       "url": "https://mana-core.github.io/Themes/themes/grape-soda.json",
-      "hash": "2b786849c451055ee665d4d32915185e67d611542c6e6bbb552ba68447e4e34a"
+      "hash": "2b407dbfb4a5823e32a059a73bd4b1f4cda72a88893434dc8191f443d94cc80c"
     },
     {
       "id": "37CB0027-3E42-4D28-B6F6-0041522934D1",
@@ -158,101 +158,101 @@
       "id": "081A51C4-41FF-460F-987D-F2EF73666EB8",
       "name": "Manga Ink",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/manga-ink.json",
       "url": "https://mana-core.github.io/Themes/themes/manga-ink.json",
-      "hash": "404211aec36dde1fd60f7e5d8eafce37ea39dbc3d703a3fc98073064b5679581"
+      "hash": "32a601e3878be55b7a49a21b0b88beabe0bda15e02b809ac2df245a4f5bb16f7"
     },
     {
       "id": "E6CD4238-C48E-5B6F-8F40-8307ACD3F081",
       "name": "Mulberry Lime",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/mulberry-lime.json",
       "url": "https://mana-core.github.io/Themes/themes/mulberry-lime.json",
-      "hash": "72fea6c46cbae1da8bf4b25f251625a1b196b5c97fda2a504f38d4caeddaf9f6"
+      "hash": "9b93df9a208f1d2fb71fe014864216aaae034856acfdcea0fa020e699107c3d6"
     },
     {
       "id": "093C1528-D00A-580E-B3FE-B1ED6101656C",
       "name": "Navy Coral",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/navy-coral.json",
       "url": "https://mana-core.github.io/Themes/themes/navy-coral.json",
-      "hash": "cf42e33e85893e76359f9e4dd4f6a53b58fe63070f538fb49041144045357504"
+      "hash": "d17b3e44a9e3cb0c9378a4a800a6294d8c80fe536c49863528ca461c3659b365"
     },
     {
       "id": "1D03AE05-71DF-4EB3-AB86-731893355218",
       "name": "Neon Bubblegum",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/neon-bubblegum.json",
       "url": "https://mana-core.github.io/Themes/themes/neon-bubblegum.json",
-      "hash": "56ec1b87e0c7c11530fee662020df5938ef1476695ac7e35c809e76e2f5950e8"
+      "hash": "6d87067e06bb696ae006de222088ee0f4e4fac505156dbff81ca185015371f0d"
     },
     {
       "id": "884F74FA-26E6-4C2D-882C-742997C2645B",
       "name": "Ocean Blue",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/ocean-blue.json",
       "url": "https://mana-core.github.io/Themes/themes/ocean-blue.json",
-      "hash": "9986350071830cf4b8e96ecc76148b1784f41f9db87c0e2a0569871b479f2a0c"
+      "hash": "207e6a1ae3567cf0d5a6fdcd97ed96fa742a37da88e329e94fde333b3bb49139"
     },
     {
       "id": "03F8FF7F-C258-40E1-AF83-DCEB7477EBDB",
       "name": "Pumpkin Séance",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/pumpkin-seance.json",
       "url": "https://mana-core.github.io/Themes/themes/pumpkin-seance.json",
-      "hash": "ea9025db939347fd5ce6dbc5fbcac2383f1d27e870278bb7a187dff7bcc7b0d2"
+      "hash": "ce3e984e9b79f2eb8a97f7c8805bbfe07e8d43bfcd32b8d79d7d83ad7dc28c49"
     },
     {
       "id": "C1D07A31-F64D-4094-9CC3-2C77BB5FE757",
       "name": "Sakura Smoke",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/sakura-smoke.json",
       "url": "https://mana-core.github.io/Themes/themes/sakura-smoke.json",
-      "hash": "b290e65ae722096ef7debebf220261cf247caf57dbc3ec2cccb30c84e19d3bc6"
+      "hash": "061eb4a97b73e0cdf7723fcfd432ce1af2ea8db066b8309e904685d91839575d"
     },
     {
       "id": "659FBEC3-51D6-588E-859B-A4821D62553A",
       "name": "Teal Tangerine",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/teal-tangerine.json",
       "url": "https://mana-core.github.io/Themes/themes/teal-tangerine.json",
-      "hash": "084b726aaa1b5658c71dc2457d3b6a2d1746987b045adb520c11c72383088c89"
+      "hash": "b3796323162f4d0f7133623e6465e93062a95ffcf2dc4aaa692c8de000702336"
     },
     {
       "id": "BC7BF5A1-685D-4EF8-8574-F83C91F63D4B",
       "name": "Vampire Valentine",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/vampire-valentine.json",
       "url": "https://mana-core.github.io/Themes/themes/vampire-valentine.json",
-      "hash": "11feff98418e125cdf356a87cb83655701293153d67f30d1b0f09629897ffd4c"
+      "hash": "2eacc59d102e727603262e49780287d8de6024073c2d59353edddcfada16fe67"
     },
     {
       "id": "5ED0F186-F8C8-4B3A-A277-6AF0D5DE1A0D",
       "name": "Vaporwave",
       "author": {
-        "name": "viki"
+        "name": "Viki"
       },
       "path": "themes/vaporwave.json",
       "url": "https://mana-core.github.io/Themes/themes/vaporwave.json",
-      "hash": "6729584e3d0ae81ffece4a7ec79fd2860abce22f0b0c55519943409e5357f039"
+      "hash": "be5046241ccda538be0770a5ebba3d91c91d6545aa17ba3c8d815d6440a29349"
     }
   ]
 }
